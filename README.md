@@ -3,12 +3,17 @@ It is an real time Chat Web Application with rooms.
 
 You can join any room and and chat with others in the room in real time.
 
+## Technologies used
+
+-> HTML,CSS,Javascript
+-> Node.js,express.js
+-> Socket.io for real time communication between server and clients
+
+
 ## Future imrovements
 
 -> Create your own room and send link to friend to join.
-
 -> Voice chats..
-
 -> Signup and login
 
 
